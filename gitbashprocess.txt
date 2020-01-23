@@ -1,0 +1,9 @@
+git init (enter)
+git clone https https://github.com/djoudihassane/f19.git(enter)
+git fetch(enter)
+
+cd f19(enter)
+git add file name (enter)
+$ git commit -m"comment" (enter)
+$ git push origin master (enter)
+
